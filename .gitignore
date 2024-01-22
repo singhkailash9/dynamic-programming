@@ -1,0 +1,5 @@
+.vscode
+__pycache__/
+
+# Executable C++ files
+1) Coin Change (Min. Number)/coin change.exe
